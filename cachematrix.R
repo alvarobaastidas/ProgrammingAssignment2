@@ -1,4 +1,4 @@
-##  =====    Alvaro Bastidas =====  ##
+##  =====    Alvaro Bastidas  R Programming  Week 3=====  ##
 ##  Assignment: Caching the Inverse of a Matrix
 ## My assignment is to write a pair of functions that cache the inverse of a matrix.
 
